@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Donnees locales et fichiers generes
+
+/data/silver/*.csv
+/data/silver/*.parquet
+/data/gold/*.csv
+/data/gold/*.parquet
+
