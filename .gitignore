@@ -229,3 +229,5 @@ __marimo__/
 /data/gold/*.csv
 /data/gold/*.parquet
 
+
+/data/runs/
